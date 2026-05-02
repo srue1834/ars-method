@@ -1,6 +1,6 @@
 ## Examen de Bases TS y VUE – Funciones Avanzadas 1 y 2
 
-Esta prueba cuenta un **17%** de la nota final de la asignatura.
+Esta prueba cuenta un **0%** de la nota final de la asignatura.
 
 ## 📚 Qué tienes que estudiar
 
@@ -15,3 +15,5 @@ Todo lo que entra en el examen sale de esos dos vídeos.
 
 - Preguntas de seleccionar opciones
 - Preguntas cortas (escribir, corregir o explicar código).
+
+# prueba rama 2
